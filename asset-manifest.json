@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/KNS-React-App/static/css/main.63fdb4eb.chunk.css",
+    "main.js": "/KNS-React-App/static/js/main.a5773f40.chunk.js",
+    "main.js.map": "/KNS-React-App/static/js/main.a5773f40.chunk.js.map",
+    "runtime-main.js": "/KNS-React-App/static/js/runtime-main.49fde472.js",
+    "runtime-main.js.map": "/KNS-React-App/static/js/runtime-main.49fde472.js.map",
+    "static/js/2.e1a87f3b.chunk.js": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js",
+    "static/js/2.e1a87f3b.chunk.js.map": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js.map",
+    "index.html": "/KNS-React-App/index.html",
+    "static/css/main.63fdb4eb.chunk.css.map": "/KNS-React-App/static/css/main.63fdb4eb.chunk.css.map",
+    "static/js/2.e1a87f3b.chunk.js.LICENSE.txt": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js.LICENSE.txt",
+    "static/media/KNS2.195fdf3c.png": "/KNS-React-App/static/media/KNS2.195fdf3c.png",
+    "static/media/build_animated.dc1270ca.gif": "/KNS-React-App/static/media/build_animated.dc1270ca.gif",
+    "static/media/index.css": "/KNS-React-App/static/media/city_print.7fbe4c4f.gif",
+    "static/media/header-bg2.36ca4637.png": "/KNS-React-App/static/media/header-bg2.36ca4637.png",
+    "static/media/p1.3c78dd0a.png": "/KNS-React-App/static/media/p1.3c78dd0a.png",
+    "static/media/p2.2373e268.png": "/KNS-React-App/static/media/p2.2373e268.png",
+    "static/media/p3.55e16e43.png": "/KNS-React-App/static/media/p3.55e16e43.png",
+    "static/media/s1.cfb6183b.png": "/KNS-React-App/static/media/s1.cfb6183b.png",
+    "static/media/s2.1c4fb19a.png": "/KNS-React-App/static/media/s2.1c4fb19a.png",
+    "static/media/s3.8169aed6.png": "/KNS-React-App/static/media/s3.8169aed6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49fde472.js",
+    "static/js/2.e1a87f3b.chunk.js",
+    "static/css/main.63fdb4eb.chunk.css",
+    "static/js/main.a5773f40.chunk.js"
+  ]
+}
