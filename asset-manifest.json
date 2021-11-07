@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/KNS-React-App/static/css/main.63fdb4eb.chunk.css",
-    "main.js": "/KNS-React-App/static/js/main.a5773f40.chunk.js",
-    "main.js.map": "/KNS-React-App/static/js/main.a5773f40.chunk.js.map",
+    "main.css": "/KNS-React-App/static/css/main.0b1aa388.chunk.css",
+    "main.js": "/KNS-React-App/static/js/main.f45decd6.chunk.js",
+    "main.js.map": "/KNS-React-App/static/js/main.f45decd6.chunk.js.map",
     "runtime-main.js": "/KNS-React-App/static/js/runtime-main.49fde472.js",
     "runtime-main.js.map": "/KNS-React-App/static/js/runtime-main.49fde472.js.map",
-    "static/js/2.e1a87f3b.chunk.js": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js",
-    "static/js/2.e1a87f3b.chunk.js.map": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/KNS-React-App/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.4a97d41a.chunk.js": "/KNS-React-App/static/js/2.4a97d41a.chunk.js",
+    "static/js/2.4a97d41a.chunk.js.map": "/KNS-React-App/static/js/2.4a97d41a.chunk.js.map",
     "index.html": "/KNS-React-App/index.html",
-    "static/css/main.63fdb4eb.chunk.css.map": "/KNS-React-App/static/css/main.63fdb4eb.chunk.css.map",
-    "static/js/2.e1a87f3b.chunk.js.LICENSE.txt": "/KNS-React-App/static/js/2.e1a87f3b.chunk.js.LICENSE.txt",
+    "static/css/2.ed1298f3.chunk.css.map": "/KNS-React-App/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.0b1aa388.chunk.css.map": "/KNS-React-App/static/css/main.0b1aa388.chunk.css.map",
+    "static/js/2.4a97d41a.chunk.js.LICENSE.txt": "/KNS-React-App/static/js/2.4a97d41a.chunk.js.LICENSE.txt",
     "static/media/KNS2.195fdf3c.png": "/KNS-React-App/static/media/KNS2.195fdf3c.png",
     "static/media/build_animated.dc1270ca.gif": "/KNS-React-App/static/media/build_animated.dc1270ca.gif",
     "static/media/index.css": "/KNS-React-App/static/media/city_print.7fbe4c4f.gif",
@@ -19,12 +21,13 @@
     "static/media/p3.55e16e43.png": "/KNS-React-App/static/media/p3.55e16e43.png",
     "static/media/s1.cfb6183b.png": "/KNS-React-App/static/media/s1.cfb6183b.png",
     "static/media/s2.1c4fb19a.png": "/KNS-React-App/static/media/s2.1c4fb19a.png",
-    "static/media/s3.8169aed6.png": "/KNS-React-App/static/media/s3.8169aed6.png"
+    "static/media/s3.c2cd6e48.png": "/KNS-React-App/static/media/s3.c2cd6e48.png"
   },
   "entrypoints": [
     "static/js/runtime-main.49fde472.js",
-    "static/js/2.e1a87f3b.chunk.js",
-    "static/css/main.63fdb4eb.chunk.css",
-    "static/js/main.a5773f40.chunk.js"
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.4a97d41a.chunk.js",
+    "static/css/main.0b1aa388.chunk.css",
+    "static/js/main.f45decd6.chunk.js"
   ]
 }
